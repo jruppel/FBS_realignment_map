@@ -1,0 +1,27 @@
+[
+  {
+    "team": "Texas",
+    "lat": 30.28,
+    "lon": -97.73
+  },
+  {
+    "team": "Nebraska",
+    "lat": 40.82,
+    "lon": -96.70
+  },
+  {
+    "team": "UAB",
+    "lat": 33.50,
+    "lon": -86.81
+  },
+  {
+    "team": "Louisiana Tech",
+    "lat": 32.53,
+    "lon": -92.65
+  },
+  {
+    "team": "Idaho",
+    "lat": 46.72,
+    "lon": -117.01
+  }
+]
