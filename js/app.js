@@ -9,7 +9,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 // GeoJSON for US states
 const geojsonUrl =
-  "../data/us-states.json";
+  "data/us-states.json";
 
 // Simple static style
 function style(feature) {
@@ -30,7 +30,7 @@ fetch(geojsonUrl)
     }).addTo(map);
   });
 
-fetch("../data/teams.json")
+fetch("data/teams.json")
   .then(res => res.json())
   .then(points => {
     points.forEach(p => {
