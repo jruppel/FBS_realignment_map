@@ -9,7 +9,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 // GeoJSON for US states
 const geojsonUrl =
-  "https://eric.clst.org/assets/wiki/uploads/Stuff/gz_2010_us_040_00_500k.json";
+  "../data/us-states.json";
 
 // Simple static style
 function style(feature) {
