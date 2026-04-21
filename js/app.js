@@ -14,9 +14,9 @@ const geojsonUrl =
 // Simple static style
 function style(feature) {
   return {
-    fillColor: "#4a90e2",
-    weight: 1,
-    color: "white",
+    fillColor: "#ffffff",
+    weight: .1,
+    color: "black",
     fillOpacity: 0.5
   };
 }
