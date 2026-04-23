@@ -1,692 +1,1106 @@
 [
   {
     "team": "Air Force Falcons",
+    "abbr": "AFA",
     "lat": 38.9969,
-    "lon": -104.8436
+    "lon": -104.8436,
+    "primary": "#003087",
+    "secondary" : "#a6a6a8"
   },
   {
     "team": "Akron Zips",
+    "abbr": "AKR",
     "lat": 41.0765,
-    "lon": -81.5115
+    "lon": -81.5115,
+    "primary": "#041e42",
+    "secondary": "#a89968"
   },
   {
     "team": "Alabama Crimson Tide",
+    "abbr": "ALA",
     "lat": 33.2097,
-    "lon": -87.5692
+    "lon": -87.5692,
+    "primary": "#9e1b32",
+    "secondary": "#ffffff"
   },
   {
     "team": "Appalachian State Mountaineers",
+    "abbr": "APP",
     "lat": 36.2114,
-    "lon": -81.685
+    "lon": -81.685,
+    "primary": "#222222",
+    "secondary": "#ffcc00"
   },
   {
     "team": "Arizona Wildcats",
+    "abbr": "ARIZ",
     "lat": 32.2288,
-    "lon": -110.948
+    "lon": -110.948,
+    "primary": "#0c234b",
+    "secondary": "#ab0520"
   },
   {
     "team": "Arizona State Sun Devils",
+    "abbr": "ASU",
     "lat": 33.4242,
-    "lon": -111.9281
+    "lon": -111.9281,
+    "primary": "#990033",
+    "secondary": "#ffb310"
   },
   {
     "team": "Arkansas Razorbacks",
+    "abbr": "ARK",
     "lat": 36.0687,
-    "lon": -94.178
+    "lon": -94.178,
+    "primary": "#9d2235",
+    "secondary": "#ffffff"
   },
   {
     "team": "Arkansas State Red Wolves",
+    "abbr": "ARST",
     "lat": 35.849,
-    "lon": -90.667
+    "lon": -90.667,
+    "primary": "#000000",
+    "secondary": "#cc092f"
   },
   {
     "team": "Army Black Knights",
+    "abbr": "ARMY",
     "lat": 41.3932,
-    "lon": -73.9634
+    "lon": -73.9634,
+    "primary": "#000000",
+    "secondary": "#d3bc8d"
   },
   {
     "team": "Auburn Tigers",
+    "abbr": "AUB",
     "lat": 32.6021,
-    "lon": -85.4882
+    "lon": -85.4882,
+    "primary": "#0c2340",
+    "secondary": "#F26522"
   },
   {
     "team": "Ball State Cardinals",
+    "abbr": "BALL",
     "lat": 40.2068,
-    "lon": -85.4086
+    "lon": -85.4086,
+    "primary": "#ba0c2f",
+    "secondary": "#ffffff"
   },
   {
     "team": "Baylor Bears",
+    "abbr": "BAY",
     "lat": 31.5493,
-    "lon": -97.115
+    "lon": -97.115,
+    "primary": "#003015",
+    "secondary": "#fecb00"
   },
   {
     "team": "Boise State Broncos",
+    "abbr": "BSU",
     "lat": 43.6037,
-    "lon": -116.202
+    "lon": -116.202,
+    "primary": "#09347a",
+    "secondary": "#f1632a"
   },
   {
     "team": "Boston College Eagles",
+    "abbr": "BC",
     "lat": 42.3351,
-    "lon": -71.1665
+    "lon": -71.1665,
+    "primary": "#910039",
+    "secondary": "#b38f59"
   },
   {
     "team": "Bowling Green Falcons",
+    "abbr": "BGSU",
     "lat": 41.3751,
-    "lon": -83.6237
+    "lon": -83.6237,
+    "primary": "#4f2c1d",
+    "secondary": "#fe5000"
   },
   {
     "team": "Buffalo Bulls",
+    "abbr": "BUFF",
     "lat": 43.001,
-    "lon": -78.777
+    "lon": -78.777,
+    "primary": "#005bbb",
+    "secondary": "#ffffff"
   },
   {
     "team": "BYU Cougars",
+    "abbr": "BYU",
     "lat": 40.257,
-    "lon": -111.6549
+    "lon": -111.6549,
+    "primary": "#002255",
+    "secondary": "#ffffff"
   },
   {
     "team": "California Golden Bears",
+    "abbr": "CAL",
     "lat": 37.8719,
-    "lon": -122.2505
+    "lon": -122.2505,
+    "primary": "#041e42",
+    "secondary": "#ffc72c"
   },
   {
     "team": "Central Michigan Chippewas",
+    "abbr": "CMU",
     "lat": 43.5912,
-    "lon": -84.7756
+    "lon": -84.7756,
+    "primary": "#6a0032",
+    "secondary": "#ffc82e"
   },
   {
     "team": "Charlotte 49ers",
+    "abbr": "CHAR",
     "lat": 35.3119,
-    "lon": -80.7421
+    "lon": -80.7421,
+    "primary": "#046a38",
+    "secondary": "#b9975b"
   },
   {
     "team": "Cincinnati Bearcats",
+    "abbr": "CIN",
     "lat": 39.1314,
-    "lon": -84.5163
+    "lon": -84.5163,
+    "primary": "#000000",
+    "secondary": "#e00122"
   },
   {
     "team": "Clemson Tigers",
+    "abbr": "CLEM",
     "lat": 34.6787,
-    "lon": -82.8429
+    "lon": -82.8429,
+    "primary": "#522d80",
+    "secondary": "#f56600"
   },
   {
     "team": "Coastal Carolina Chanticleers",
+    "abbr": "CCAR",
     "lat": 33.7956,
-    "lon": -79.0129
+    "lon": -79.0129,
+    "primary": "#006f71",
+    "secondary": "#a27752"
   },
   {
     "team": "Colorado Buffaloes",
+    "abbr": "COLO",
     "lat": 40.0095,
-    "lon": -105.2669
+    "lon": -105.2669,
+    "primary": "#000000",
+    "secondary": "#cfb87c"
   },
   {
     "team": "Colorado State Rams",
+    "abbr": "CSU",
     "lat": 40.5707,
-    "lon": -105.0844
+    "lon": -105.0844,
+    "primary": "#1e4d2b",
+    "secondary": "#c8c372"
   },
   {
     "team": "Delaware Fightin' Blue Hens",
+    "abbr": "DEL",
     "lat": 39.6617,
-    "lon": -75.7488
+    "lon": -75.7488,
+    "primary": "#00539f",
+    "secondary": "#ffd200"
   },
   {
     "team": "Duke Blue Devils",
+    "abbr": "DUKE",
     "lat": 36.0014,
-    "lon": -78.9382
+    "lon": -78.9382,
+    "primary": "#001a57",
+    "secondary": "#ffffff"
   },
   {
     "team": "East Carolina Pirates",
+    "abbr": "ECU",
     "lat": 35.596,
-    "lon": -77.365
+    "lon": -77.365,
+    "primary": "#592a8a",
+    "secondary": "#fdc82f"
   },
   {
     "team": "Eastern Michigan Eagles",
+    "abbr": "EMU",
     "lat": 42.2573,
-    "lon": -83.6244
+    "lon": -83.6244,
+    "primary": "#006633",
+    "secondary": "#ffffff"
   },
   {
     "team": "Florida Gators",
+    "abbr": "UF",
     "lat": 29.6499,
-    "lon": -82.3487
+    "lon": -82.3487,
+    "primary": "#0021a5",
+    "secondary": "#fa4616"
   },
   {
     "team": "Florida Atlantic Owls",
+    "abbr": "FAU",
     "lat": 26.3735,
-    "lon": -80.101
+    "lon": -80.101,
+    "primary": "#003366",
+    "secondary": "#cc0000"
   },
   {
     "team": "Florida International Panthers",
+    "abbr": "FIU",
     "lat": 25.7575,
-    "lon": -80.3735
+    "lon": -80.3735,
+    "primary": "#081e3f",
+    "secondary": "#b6862c"
   },
   {
     "team": "Florida State Seminoles",
+    "abbr": "FSU",
     "lat": 30.4378,
-    "lon": -84.3044
+    "lon": -84.3044,
+    "primary": "#782f40",
+    "secondary": "#ceb888"
   },
   {
     "team": "Fresno State Bulldogs",
+    "abbr": "FRES",
     "lat": 36.8145,
-    "lon": -119.758
+    "lon": -119.758,
+    "primary": "#13284c",
+    "secondary": "#b1102b"
   },
   {
     "team": "Georgia Bulldogs",
+    "abbr": "UGA",
     "lat": 33.9499,
-    "lon": -83.3732
+    "lon": -83.3732,
+    "primary": "#000000",
+    "secondary": "#DA291C"
   },
   {
     "team": "Georgia Southern Eagles",
+    "abbr": "GASO",
     "lat": 32.4246,
-    "lon": -81.7833
+    "lon": -81.7833,
+    "primary": "#011e41",
+    "secondary": "#ffffff"
   },
   {
     "team": "Georgia State Panthers",
+    "abbr": "GAST",
     "lat": 33.7573,
-    "lon": -84.3963
+    "lon": -84.3963,
+    "primary": "#0039a6",
+    "secondary": "#ffffff"
   },
   {
     "team": "Georgia Tech Yellow Jackets",
+    "abbr": "GT",
     "lat": 33.7725,
-    "lon": -84.3921
+    "lon": -84.3921,
+    "primary": "#b39142",
+    "secondary": "#00263a"
   },
   {
     "team": "Hawai'i Rainbow Warriors",
+    "abbr": "HAW",
     "lat": 21.3047,
-    "lon": -157.856
+    "lon": -157.856,
+    "primary": "#024731",
+    "secondary": "#ffffff"
   },
   {
     "team": "Houston Cougars",
+    "abbr": "HOU",
     "lat": 29.7215,
-    "lon": -95.3436
+    "lon": -95.3436,
+    "primary": "#C92839",
+    "secondary": "#ffffff"
   },
   {
     "team": "Illinois Fighting Illini",
+    "abbr": "ILL",
     "lat": 40.0994,
-    "lon": -88.2352
+    "lon": -88.2352,
+    "primary": "#13294b",
+    "secondary": "#e04e39"
   },
   {
     "team": "Indiana Hoosiers",
+    "abbr": "IND",
     "lat": 39.1807,
-    "lon": -86.525
+    "lon": -86.525,
+    "primary": "#990000",
+    "secondary": "#eeedeb"
   },
   {
     "team": "Iowa Hawkeyes",
+    "abbr": "IOWA",
     "lat": 41.6583,
-    "lon": -91.5516
+    "lon": -91.5516,
+    "primary": "#000000",
+    "secondary": "#ffcd00"
   },
   {
     "team": "Iowa State Cyclones",
+    "abbr": "ISU",
     "lat": 42.0167,
-    "lon": -93.6353
+    "lon": -93.6353,
+    "primary": "#c8102e",
+    "secondary": "#f1be48"
   },
   {
     "team": "Jacksonville State Gamecocks",
+    "abbr": "JVST",
     "lat": 33.821,
-    "lon": -85.766
+    "lon": -85.766,
+    "primary": "#cc0000",
+    "secondary": "#ffffff"
   },
   {
     "team": "James Madison Dukes",
+    "abbr": "JMU",
     "lat": 38.4361,
-    "lon": -78.872
+    "lon": -78.872,
+    "primary": "#450084",
+    "secondary": "#cbb677"
   },
   {
     "team": "Kansas Jayhawks",
+    "abbr": "KU",
     "lat": 38.9609,
-    "lon": -95.2518
+    "lon": -95.2518,
+    "primary": "#0051ba",
+    "secondary": "#e8000d"
   },
   {
     "team": "Kansas State Wildcats",
+    "abbr": "KSU",
     "lat": 39.202,
-    "lon": -96.5817
+    "lon": -96.5817,
+    "primary": "#330a57",
+    "secondary": "#ffffff"
   },
   {
     "team": "Kennesaw State Owls",
+    "abbr": "KENN",
     "lat": 34.038,
-    "lon": -84.581
+    "lon": -84.581,
+    "primary": "#000000",
+    "secondary": "#ffc629"
   },
   {
     "team": "Kent State Golden Flashes",
+    "abbr": "KENT",
     "lat": 41.1443,
-    "lon": -81.3397
+    "lon": -81.3397,
+    "primary": "#002664",
+    "secondary": "#eaab00"
   },
   {
     "team": "Kentucky Wildcats",
+    "abbr": "UK",
     "lat": 38.0226,
-    "lon": -84.5053
+    "lon": -84.5053,
+    "primary": "#0033A0",
+    "secondary": "#FFFFFF"
   },
   {
     "team": "Liberty Flames",
+    "abbr": "LIB",
     "lat": 37.354, 
-    "lon": -79.175
+    "lon": -79.175,
+    "primary": "#0a254e",
+    "secondary": "#b72025"
+  },
+  {
+    "team": "Louisiana-Lafayette Ragin' Cajuns",
+    "abbr": "ULL",
+    "lat": 30.2157,
+    "lon": -92.0198,
+    "primary": "#ce181e",
+    "secondary": "#ffffff"
+  },
+  {
+    "team": "Louisiana-Monroe Warhawks",
+    "abbr": "ULM",
+    "lat": 32.5285,
+    "lon": -92.0713,
+    "primary": "#840029",
+    "secondary": "#fdb913"
   },
   {
     "team": "Louisiana Tech Bulldogs",
+    "abbr": "LT",
     "lat": 32.5273,
-    "lon": -92.6431
+    "lon": -92.6431,
+    "primary": "#003087",
+    "secondary": "#cb333b"
   },
   {
     "team": "Louisville Cardinals",
+    "abbr": "LOU",
     "lat": 38.2059,
-    "lon": -85.7585
+    "lon": -85.7585,
+    "primary": "#000000",
+    "secondary": "#ad0000"
   },
   {
     "team": "LSU Tigers",
+    "abbr": "LSU",
     "lat": 30.412,
-    "lon": -91.1839
+    "lon": -91.1839,
+    "primary": "#461d7c",
+    "secondary": "#fdd023"
   },
   {
     "team": "Marshall Thundering Herd",
+    "abbr": "MRSH",
     "lat": 38.4231,
-    "lon": -82.4412
+    "lon": -82.4412,
+    "primary": "#00ac3e",
+    "secondary": "#ffffff"
   },
   {
     "team": "Maryland Terrapins",
+    "abbr": "UMD",
     "lat": 38.9907,
-    "lon": -76.9465
+    "lon": -76.9465,
+    "primary": "#e21833",
+    "secondary": "#ffd200"
   },
   {
     "team": "Memphis Tigers",
+    "abbr": "MEM",
     "lat": 35.1215,
-    "lon": -89.9773
+    "lon": -89.9773,
+    "primary": "#00498f",
+    "secondary": "#9c9ea1"
   },
   {
-    "team": "Miami Hurricanes",
+    "team": "Miami (FL) Hurricanes",
+    "abbr": "MIA",
     "lat": 25.958,
-    "lon": -80.2389
+    "lon": -80.2389,
+    "primary": "#005030",
+    "secondary": "#f47321"
   },
   {
-    "team": "Miami RedHawks",
+    "team": "Miami (OH) RedHawks",
+    "abbr": "M-OH",
     "lat": 39.5102,
-    "lon": -84.7302
+    "lon": -84.7302,
+    "primary": "#c41230",
+    "secondary": "#ffffff"
   },
   {
     "team": "Michigan Wolverines",
+    "abbr": "MICH",
     "lat": 42.2658,
-    "lon": -83.7487
+    "lon": -83.7487,
+    "primary": "#00274c",
+    "secondary": "#ffcb05"
   },
   {
     "team": "Michigan State Spartans",
+    "abbr": "MSU",
     "lat": 42.7281,
-    "lon": -84.4847
+    "lon": -84.4847,
+    "primary": "#18453B",
+    "secondary": "#ffffff"
   },
   {
     "team": "Middle Tennessee Blue Raiders",
+    "abbr": "MTSU",
     "lat": 35.852,
-    "lon": -86.367
+    "lon": -86.367,
+    "primary": "#343636",
+    "secondary": "#0066cc"
   },
   {
     "team": "Minnesota Golden Gophers",
+    "abbr": "MINN",
     "lat": 44.976,
-    "lon": -93.224
+    "lon": -93.224,
+    "primary": "#7a0019",
+    "secondary": "#ffcc33"
   },
   {
     "team": "Mississippi State Bulldogs",
+    "abbr": "MSST",
     "lat": 33.455,
-    "lon": -88.7934
+    "lon": -88.7934,
+    "primary": "#5d1725",
+    "secondary": "#ffffff"
   },
   {
     "team": "Missouri Tigers",
+    "abbr": "MIZ",
     "lat": 38.9359,
-    "lon": -92.333
+    "lon": -92.333,
+    "primary": "#000000",
+    "secondary": "#fdb719"
   },
   {
     "team": "Missouri State Bears",
+    "abbr": "MOST",
     "lat": 37.197778, 
-    "lon": -93.279722
+    "lon": -93.279722,
+    "primary": "#5E0009",
+    "secondary": "#ffffff"
   },
   {
     "team": "Navy Midshipmen",
+    "abbr": "NAVY",
     "lat": 38.9847,
-    "lon": -76.486
+    "lon": -76.486,
+    "primary": "#00205b",
+    "secondary": "#c5b783"
   },
   {
     "team": "NC State Wolfpack",
+    "abbr": "NCST",
     "lat": 35.8,
-    "lon": -78.719
+    "lon": -78.719,
+    "primary": "#cc0000",
+    "secondary": "#ffffff"
   },
   {
     "team": "Nebraska Cornhuskers",
+    "abbr": "NEB",
     "lat": 40.82,
-    "lon": -96.7
+    "lon": -96.7,
+    "primary": "#d00000",
+    "secondary": "#f5f1e7"
   },
   {
     "team": "Nevada Wolf Pack",
+    "abbr": "NEV",
     "lat": 39.544,
-    "lon": -119.815
+    "lon": -119.815,
+    "primary": "#041E42",
+    "secondary": "#8A8D8F"
   },
   {
     "team": "New Mexico Lobos",
+    "abbr": "UNM",
     "lat": 35.0669,
-    "lon": -106.6291
+    "lon": -106.6291,
+    "primary": "#B71234",
+    "secondary": "#C3C8C8"
   },
   {
     "team": "New Mexico State Aggies",
+    "abbr": "NMSU",
     "lat": 32.279,
-    "lon": -106.747
+    "lon": -106.747,
+    "primary": "#8c0b42",
+    "secondary": "#ffffff"
   },
   {
     "team": "North Carolina Tar Heels",
+    "abbr": "UNC",
     "lat": 35.9062,
-    "lon": -79.0472
+    "lon": -79.0472,
+    "primary": "#13294b",
+    "secondary": "#4b9cd3"
   },
   {
     "team": "North Dakota State Bison",
+    "abbr": "NDSU",
     "lat": 46.903056, 
-    "lon": -96.801667
+    "lon": -96.801667,
+    "primary": "#005643",
+    "secondary": "#ffc82e"
   },
   {
     "team": "North Texas Mean Green",
+    "abbr": "UNT",
     "lat": 33.2075,
-    "lon": -97.1526
+    "lon": -97.1526,
+    "primary": "#00853e",
+    "secondary": "#ffffff"
   },
   {
     "team": "Northern Illinois Huskies",
+    "abbr": "NIU",
     "lat": 41.935,
-    "lon": -88.775
+    "lon": -88.775,
+    "primary": "#000000",
+    "secondary": "#c8102e"
   },
   {
     "team": "Northwestern Wildcats",
+    "abbr": "NW",
     "lat": 42.0564,
-    "lon": -87.6753
+    "lon": -87.6753,
+    "primary": "#4e2a84",
+    "secondary": "#ffffff"
   },
   {
     "team": "Notre Dame Fighting Irish",
+    "abbr": "ND",
     "lat": 41.6995,
-    "lon": -86.2348
+    "lon": -86.2348,
+    "primary": "#0c2340",
+    "secondary": "#c99700"
   },
   {
     "team": "Ohio Bobcats",
+    "abbr": "OHIO",
     "lat": 39.3212,
-    "lon": -82.1
+    "lon": -82.1,
+    "primary": "#00694e",
+    "secondary": "#ffffff"
   },
   {
     "team": "Ohio State Buckeyes",
+    "abbr": "OSU",
     "lat": 40.0017,
-    "lon": -83.0197
+    "lon": -83.0197,
+    "primary": "#bb0000",
+    "secondary": "#a7b1b7"
   },
   {
     "team": "Oklahoma Sooners",
+    "abbr": "OKLA",
     "lat": 35.2059,
-    "lon": -97.4422
+    "lon": -97.4422,
+    "primary": "#841617",
+    "secondary": "#fdf9d8"
   },
   {
     "team": "Oklahoma State Cowboys",
+    "abbr": "OKST",
     "lat": 36.1256,
-    "lon": -97.0688
+    "lon": -97.0688,
+    "primary": "#000000",
+    "secondary": "#ff7300"
   },
   {
     "team": "Old Dominion Monarchs",
+    "abbr": "ODU",
     "lat": 36.886,
-    "lon": -76.3045
+    "lon": -76.3045,
+    "primary": "#043657",
+    "secondary": "#828a8f"
   },
   {
     "team": "Ole Miss Rebels",
+    "abbr": "MISS",
     "lat": 34.3617,
-    "lon": -89.534
+    "lon": -89.534,
+    "primary": "#00205b",
+    "secondary": "#c8102e"
   },
   {
     "team": "Oregon Ducks",
+    "abbr": "ORE",
     "lat": 44.0582,
-    "lon": -123.068
+    "lon": -123.068,
+    "primary": "#007030",
+    "secondary": "#fee11a"
   },
   {
     "team": "Oregon State Beavers",
+    "abbr": "ORST",
     "lat": 44.5646,
-    "lon": -123.2793
+    "lon": -123.2793,
+    "primary": "#000000",
+    "secondary": "#D73F09"
   },
   {
     "team": "Penn State Nittany Lions",
+    "abbr": "PSU",
     "lat": 40.8122,
-    "lon": -77.8568
+    "lon": -77.8568,
+    "primary": "#041e42",
+    "secondary": "#ffffff"
   },
   {
     "team": "Pittsburgh Panthers",
+    "abbr": "PITT",
     "lat": 40.4468,
-    "lon": -80.0158
+    "lon": -80.0158,
+    "primary": "#003594",
+    "secondary": "#ffb81c"
   },
   {
     "team": "Purdue Boilermakers",
+    "abbr": "PUR",
     "lat": 40.4237,
-    "lon": -86.9212
+    "lon": -86.9212,
+    "primary": "#000000",
+    "secondary": "#cfb991"
   },
   {
     "team": "Rice Owls",
+    "abbr": "RICE",
     "lat": 29.7167,
-    "lon": -95.409
+    "lon": -95.409,
+    "primary": "#00205b",
+    "secondary": "#7c7e7f"
   },
   {
     "team": "Rutgers Scarlet Knights",
+    "abbr": "RUTG",
     "lat": 40.513,
-    "lon": -74.4654
+    "lon": -74.4654,
+    "primary": "#000000",
+    "secondary": "#cc0033"
   },
   {
     "team": "Sacramento State Hornets",
+    "abbr": "SAC",
     "lat": 38.556, 
-    "lon": -121.423
+    "lon": -121.423,
+    "primary": "#043927",
+    "secondary": "#c4b581"
   },
   {
     "team": "Sam Houston Bearkats",
+    "abbr": "SHSU",
     "lat": 30.713889,
-    "lon": -95.541667
+    "lon": -95.541667,
+    "primary": "#f56423",
+    "secondary": "#ffffff"
   },
   {
     "team": "San Diego State Aztecs",
+    "abbr": "SDSU",
     "lat": 32.7759,
-    "lon": -117.0704
+    "lon": -117.0704,
+    "primary": "#000000",
+    "secondary": "#a6192e"
   },
   {
     "team": "San Jose State Spartans",
+    "abbr": "SJSU",
     "lat": 37.321,
-    "lon": -121.8666
+    "lon": -121.8666,
+    "primary": "#0055A2",
+    "secondary": "#e5a823"
   },
   {
     "team": "SMU Mustangs",
+    "abbr": "SMU",
     "lat": 32.838,
-    "lon": -96.7845
+    "lon": -96.7845,
+    "primary": "#354ca1",
+    "secondary": "#cc0035"
   },
   {
     "team": "South Alabama Jaguars",
+    "abbr": "USA",
     "lat": 30.6963,
-    "lon": -88.1787
+    "lon": -88.1787,
+    "primary": "#00205b",
+    "secondary": "#bf0d3e"
   },
   {
     "team": "South Carolina Gamecocks",
+    "abbr": "SC",
     "lat": 33.9731,
-    "lon": -81.0215
+    "lon": -81.0215,
+    "primary": "#000000",
+    "secondary": "#73000a"
   },
   {
     "team": "South Florida Bulls",
+    "abbr": "USF",
     "lat": 28.0587,
-    "lon": -82.4091
+    "lon": -82.4091,
+    "primary": "#006747",
+    "secondary": "#cfc493"
   },
   {
     "team": "Southern Miss Golden Eagles",
+    "abbr": "USM",
     "lat": 31.3285,
-    "lon": -89.3295
+    "lon": -89.3295,
+    "primary": "#000000",
+    "secondary": "#fdc737"
   },
   {
     "team": "Stanford Cardinal",
+    "abbr": "STAN",
     "lat": 37.434,
-    "lon": -122.16
+    "lon": -122.16,
+    "primary": "#8c1515",
+    "secondary": "#ffffff"
   },
   {
     "team": "Syracuse Orange",
+    "abbr": "SYR",
     "lat": 43.0367,
-    "lon": -76.1365
+    "lon": -76.1365,
+    "primary": "#000e54",
+    "secondary": "#f76900"
   },
   {
     "team": "TCU Horned Frogs",
+    "abbr": "TCU",
     "lat": 32.7096,
-    "lon": -97.3626
+    "lon": -97.3626,
+    "primary": "#4d1979",
+    "secondary": "#ffffff"
   },
   {
     "team": "Temple Owls",
+    "abbr": "TEM",
     "lat": 39.98,
-    "lon": -75.155
+    "lon": -75.155,
+    "primary": "#9d2235",
+    "secondary": "#ffffff"
   },
   {
     "team": "Tennessee Volunteers",
+    "abbr": "TENN",
     "lat": 35.9545,
-    "lon": -83.9311
+    "lon": -83.9311,
+    "primary": "#ff8200",
+    "secondary": "#ffffff"
   },
   {
     "team": "Texas Longhorns",
+    "abbr": "TEX",
     "lat": 30.2837,
-    "lon": -97.732
+    "lon": -97.732,
+    "primary": "#bf5700",
+    "secondary": "#ffffff"
   },
   {
     "team": "Texas A&M Aggies",
+    "abbr": "TAMU",
     "lat": 30.61,
-    "lon": -96.34
+    "lon": -96.34,
+    "primary": "#500000",
+    "secondary": "#ffffff"
   },
   {
     "team": "Texas State Bobcats",
+    "abbr": "TXST",
     "lat": 29.891,
-    "lon": -97.931
+    "lon": -97.931,
+    "primary": "#501214",
+    "secondary": "#AC9155"
   },
   {
     "team": "Texas Tech Red Raiders",
+    "abbr": "TTU",
     "lat": 33.585,
-    "lon": -101.874
+    "lon": -101.874,
+    "primary": "#000000",
+    "secondary": "#cc0000"
   },
   {
     "team": "Toledo Rockets",
+    "abbr": "TOL",
     "lat": 41.657,
-    "lon": -83.613
+    "lon": -83.613,
+    "primary": "#002569",
+    "secondary": "#ffce00"
   },
   {
     "team": "Troy Trojans",
+    "abbr": "TROY",
     "lat": 31.799,
-    "lon": -85.95
+    "lon": -85.95,
+    "primary": "#8a2432",
+    "secondary": "#b3b5b8"
   },
   {
     "team": "Tulane Green Wave",
+    "abbr": "TUL",
     "lat": 29.9401,
-    "lon": -90.12
+    "lon": -90.12,
+    "primary": "#006747",
+    "secondary": "#418fde"
   },
   {
     "team": "Tulsa Golden Hurricane",
+    "abbr": "TLSA",
     "lat": 36.1539,
-    "lon": -95.943
+    "lon": -95.943,
+    "primary": "#003595",
+    "secondary": "#d0b787"
   },
   {
     "team": "UAB Blazers",
+    "abbr": "UAB",
     "lat": 33.502,
-    "lon": -86.809
+    "lon": -86.809,
+    "primary": "#1a5632",
+    "secondary": "#fdB913"
   },
   {
     "team": "UCF Knights",
+    "abbr": "UCF",
     "lat": 28.607,
-    "lon": -81.197
+    "lon": -81.197,
+    "primary": "#000000",
+    "secondary": "#ba9b37"
   },
   {
     "team": "UCLA Bruins",
+    "abbr": "UCLA",
     "lat": 34.1613,
-    "lon": -118.1676
+    "lon": -118.1676,
+    "primary": "#2774ae",
+    "secondary": "#ffd100"
   },
   {
     "team": "UConn Huskies",
+    "abbr": "CONN",
     "lat": 41.759722,
-    "lon": -72.618889
-  },
-  {
-    "team": "ULL Ragin' Cajuns",
-    "lat": 30.2157,
-    "lon": -92.0198
-  },
-  {
-    "team": "ULM Warhawks",
-    "lat": 32.5285,
-    "lon": -92.0713
+    "lon": -72.618889,
+    "primary": "#000e2f",
+    "secondary": "#ffffff"
   },
   {
     "team": "UMass Minutemen",
+    "abbr": "UMASS",
     "lat": 42.377306, 
-    "lon": -72.536019
+    "lon": -72.536019,
+    "primary": "#881C1C",
+    "secondary": "#ffffff"
   },
   {
     "team": "UNLV Rebels",
+    "abbr": "UNLV",
     "lat": 36.104,
-    "lon": -115.141
+    "lon": -115.141,
+    "primary": "#b10202",
+    "secondary": "#cac8c8"
   },
   {
     "team": "USC Trojans",
+    "abbr": "USC",
     "lat": 34.0212,
-    "lon": -118.2851
+    "lon": -118.2851,
+    "primary": "#990000",
+    "secondary": "#ffcc00"
   },
   {
     "team": "Utah Utes",
+    "abbr": "UTAH",
     "lat": 40.7608,
-    "lon": -111.848
+    "lon": -111.848,
+    "primary": "#000000",
+    "secondary": "#be0000"
   },
   {
     "team": "Utah State Aggies",
+    "abbr": "USU",
     "lat": 41.745,
-    "lon": -111.812
+    "lon": -111.812,
+    "primary": "#0f2439",
+    "secondary": "#ffffff"
   },
   {
     "team": "UTEP Miners",
+    "abbr": "UTEP",
     "lat": 31.77,
-    "lon": -106.503
+    "lon": -106.503,
+    "primary": "#002147",
+    "secondary": "#ff5600"
   },
   {
     "team": "UTSA Roadrunners",
+    "abbr": "UTSA",
     "lat": 29.582,
-    "lon": -98.618
+    "lon": -98.618,
+    "primary": "#032044",
+    "secondary": "#f15a22"
   },
   {
     "team": "Vanderbilt Commodores",
+    "abbr": "VAN",
     "lat": 36.1447,
-    "lon": -86.8027
+    "lon": -86.8027,
+    "primary": "#000000",
+    "secondary": "#CFAE70"
   },
   {
     "team": "Virginia Cavaliers",
+    "abbr":"UVA",
     "lat": 38.0336,
-    "lon": -78.5079
+    "lon": -78.5079,
+    "primary": "#232D4B",
+    "secondary": "#E57200"
   },
   {
     "team": "Virginia Tech Hokies",
+    "abbr": "VT",
     "lat": 37.2176,
-    "lon": -80.419
+    "lon": -80.419,
+    "primary": "#660000",
+    "secondary": "#ff6600"
   },
   {
     "team": "Wake Forest Demon Deacons",
+    "abbr": "WAKE",
     "lat": 36.1353,
-    "lon": -80.2767
+    "lon": -80.2767,
+    "primary": "#000000",
+    "secondary": "#9e7e38"
   },
   {
     "team": "Washington Huskies",
+    "abbr": "WASH",
     "lat": 47.6509,
-    "lon": -122.3012
+    "lon": -122.3012,
+    "primary": "#33006f",
+    "secondary": "#e8d3a2"
   },
   {
     "team": "Washington State Cougars",
+    "abbr": "WSU",
     "lat": 46.732,
-    "lon": -117.154
+    "lon": -117.154,
+    "primary": "#a60f2d",
+    "secondary": "#ffffff"
   },
   {
     "team": "West Virginia Mountaineers",
+    "abbr": "WVU",
     "lat": 39.6515,
-    "lon": -79.9559
+    "lon": -79.9559,
+    "primary": "#002855",
+    "secondary": "#eaaa00"
   },
   {
     "team": "Western Kentucky Hilltoppers",
+    "abbr": "WKU",
     "lat": 36.986,
-    "lon": -86.455
+    "lon": -86.455,
+    "primary": "#b01e24",
+    "secondary": "#ffffff"
   },
   {
     "team": "Western Michigan Broncos",
+    "abbr": "WMU",
     "lat": 42.2826,
-    "lon": -85.6101
+    "lon": -85.6101,
+    "primary": "#532e1f",
+    "secondary": "#f1c500"
   },
   {
     "team": "Wisconsin Badgers",
+    "abbr": "WIS",
     "lat": 43.0699,
-    "lon": -89.4126
+    "lon": -89.4126,
+    "primary": "#c5050c",
+    "secondary": "#ffffff"
   },
   {
     "team": "Wyoming Cowboys",
+    "abbr": "WYO",
     "lat": 41.3119,
-    "lon": -105.5687
+    "lon": -105.5687,
+    "primary": "#492f24",
+    "secondary": "#ffc425"
   }
 ]
